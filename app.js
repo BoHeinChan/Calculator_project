@@ -57,7 +57,7 @@ calculateButton.addEventListener("click", () => {
             break;
         default:
             break;
-    }
+    };
     resultTag.innerHTML = result;
 });
 // Clear Button
